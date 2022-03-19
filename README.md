@@ -10,6 +10,10 @@
 
 [NFT图片合成脚本](https://github.com/script-money/generate-nft-images)
 
+[检查snapshot新投票](https://github.com/robotech202122/vote)
+
+[检查cosmos系新投票](https://github.com/fxhash001/cosmos_voting)
+
 ## 工具
 
 [Discord水群工具](https://github.com/0xNezha/DiscordTalker_V2.0)
