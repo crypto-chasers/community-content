@@ -14,6 +14,8 @@
 
 [检查cosmos系新投票](https://github.com/fxhash001/cosmos_voting)
 
+[Moraswap全套交互](https://github.com/ericet/MoraSwap)
+
 ## 工具
 
 [Discord水群工具](https://github.com/0xNezha/DiscordTalker_V2.0)
