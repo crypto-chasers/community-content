@@ -30,6 +30,8 @@
 
 [工具聚合网站](https://token.garden/)
 
+[bsc自动交易工具](https://github.com/robotchangzhang/chainrobot)
+
 ## 活动
 
 [pointer快速通关](https://github.com/kun-g/EasyLootBox)
